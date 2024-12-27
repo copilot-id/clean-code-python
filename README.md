@@ -5,7 +5,7 @@ Welcome to the Python Clean Code Tutorial! This tutorial will guide you through 
 ## Table of Contents
 
 | # | Title | Start Learning |
-|--------|-------|------|
+|--------|-------|:------:|
 | 1 | [Introduction to Clean Code](#1-introduction-to-clean-code) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-01) |
 | 2 | [Coding Standards and Best Practices](#2-coding-standards-and-best-practices) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-02) |
 | 3 | [Naming Conventions](#3-naming-conventions) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-03) |
