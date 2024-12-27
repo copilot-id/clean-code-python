@@ -6,16 +6,16 @@ Welcome to the Python Clean Code Tutorial! This tutorial will guide you through 
 
 | # | Title | Link |
 |--------|-------|------|
-| 1 | [Introduction to Clean Code](#1-introduction-to-clean-code) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-01) |
-| 2 | [Coding Standards and Best Practices](#2-coding-standards-and-best-practices) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-02) |
-| 3 | [Naming Conventions](#3-naming-conventions) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-03) |
-| 4 | [Functions and Methods](#4-functions-and-methods) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-04) |
-| 5 | [Error Handling](#5-error-handling) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-05) |
-| 6 | [Code Smells and Refactoring](#6-code-smells-and-refactoring) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-06) |
-| 7 | [Unit Testing and Test-Driven Development (TDD)](#7-unit-testing-and-test-driven-development-tdd) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-07) |
-| 8 | [Documentation and Comments](#8-documentation-and-comments) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-08) |
-| 9 | [Code Reviews and Pair Programming](#9-code-reviews-and-pair-programming) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-09) |
-| 10 | [Continual Improvement and Learning](#10-continual-improvement-and-learning) | [Code](https://github.com/copilot-id/clean-code-python/tree/01-10) |
+| 1 | [Introduction to Clean Code](#1-introduction-to-clean-code) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-01) |
+| 2 | [Coding Standards and Best Practices](#2-coding-standards-and-best-practices) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-02) |
+| 3 | [Naming Conventions](#3-naming-conventions) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-03) |
+| 4 | [Functions and Methods](#4-functions-and-methods) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-04) |
+| 5 | [Error Handling](#5-error-handling) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-05) |
+| 6 | [Code Smells and Refactoring](#6-code-smells-and-refactoring) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-06) |
+| 7 | [Unit Testing and Test-Driven Development (TDD)](#7-unit-testing-and-test-driven-development-tdd) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-07) |
+| 8 | [Documentation and Comments](#8-documentation-and-comments) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-08) |
+| 9 | [Code Reviews and Pair Programming](#9-code-reviews-and-pair-programming) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-09) |
+| 10 | [Continual Improvement and Learning](#10-continual-improvement-and-learning) | [Code](https://github.com/copilot-id/python-clean-code/tree/01-10) |
 
 ## 1. Introduction to Clean Code
 - **Description:** Learn the basics of clean code, including its importance and principles. Understand the difference between messy and clean code through examples.
